@@ -12,4 +12,7 @@ trdsql
 *.out
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
+vendor
 vendor/
+vendor/*
+vendor/**
