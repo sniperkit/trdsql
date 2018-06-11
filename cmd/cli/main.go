@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	trdsql "github.com/sniperkit/trdsql/pkg/trdsql"
+	trdsql "github.com/sniperkit/trdsql/pkg"
 )
 
 func main() {
